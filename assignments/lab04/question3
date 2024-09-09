@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(){
+  char x:
+  printf("enter a character");
+  scanf(" %c",&x);
+  if(x>96 && x<123){
+    printf("character is a small charcter");
+  }
+  else if (x>65 && x<91){
+    printf("character is a big character");
+  }
+}
