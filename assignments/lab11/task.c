@@ -1,3 +1,5 @@
+/*i created a single file to store the player structure 
+directly using fwrite and read the entire structure from the file using fread*/
 #include <stdio.h>
 #include <string.h>
 
